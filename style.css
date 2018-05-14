@@ -1,0 +1,18 @@
+body {
+	
+	background-color: blue;
+	color: white;
+
+
+}
+
+.song {
+	text-align: center;
+	font-family: Times;
+  width: 100%;
+  
+}
+p {
+
+  margin: 40px;
+}
